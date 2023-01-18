@@ -42,7 +42,7 @@ pkg install git
 git clone https://github.com/HackerTzy666/kenzz
 cd kenzz
 ls
-python Kenzz.py
+python kenzz.py
 ```
 ## Big Thanks To
  ```
