@@ -8,7 +8,7 @@
 
 # pkg install git
 
-
+# git clone https://github.com/HackerTzy666/kenzz
 
 # cd kenzz
 
