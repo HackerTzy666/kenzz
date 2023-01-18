@@ -28,13 +28,12 @@
 - [`DANA`](087853021508)
 - [`GOPAY`](087853021508)
 
-## ```GROUP BOT```
+## ```GROUP WA Kenzz666×```
 
 - [`GROUP WA`](https://chat.whatsapp.com/GNLvQFdrcoE8eJKhmOof4H)
 
 ## For Termux
-```bash
-termux-setup-storage
+```install dulu bro
 apt update && apt upgrade
 pkg install python
 pkg install python2
