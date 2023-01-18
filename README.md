@@ -1,5 +1,3 @@
-# kenzz
-
 # pkg install update && pkg install upgrade
 
 # pkg install python
@@ -15,3 +13,5 @@
 # ls
 
 # python kenzz.py
+
+MINIMAL KASIH BINTANG😌
